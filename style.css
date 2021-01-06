@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+	font-family: 'Oswald', sans-serif;
+	font-size: 16px;
+	color: #363958;
+	width: 90%;
+	margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: #363958;
+}
+
+.header {
+	margin: 45px 0;
+	display: block;
+	overflow: hidden;
+}
+.site-menu ul {
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+.site-menu ul li {
+    list-style: none;
+    float: left;
+}
+.site-menu ul li a {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 500;
+	padding: 5px 17px;
+	text-transform: capitalize;
+}
+
+.hello-area {
+	display: block;
+	overflow: hidden;
+	margin-bottom: 70px;
+}
+.text-highlight {
+    color: tomato !important;
+}
+
+.spilt-div {
+	width: 50%;
+	float: left;
+}
+.site-text {
+	margin-top: 25px;
+}
+.site-text h2 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 60px;
+	font-weight: 500;
+	color: #363958;
+}
+.first-heading {}
+.sec-heading {
+	margin-top: -13px;
+}
+.site-text p {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	margin: 35px 0px;
+	width: 58%;
+}
+
+.site-text a {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	margin: 25px 0px;
+	width: 58%;
+	color: #fff;
+	background: linear-gradient(lightsalmon, tomato);
+	padding: 14px 42px;
+	margin: 35px 0;
+	border-radius: 7px;
+}
+
+.site-img {}
+.site-img img {
+	width: 70%;
+	float: right;
+}
+
+.about-area .site-img img {
+    float: left;
+}
+
+.about-area  .site-text p {
+	width: 88%;
+}
+.about-area {
+	display: block;
+	overflow: hidden;
+	margin-bottom: 100px;
+}
+.about-area .site-text {
+    margin-top: 65px;
+}
+
+
+.work-area {
+	display: block;
+	overflow: hidden;
+    margin-bottom: 70px;
+    height: 450px;
+    background: whitesmoke;
+}
+
+.work-area h2 {
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 60px;
+	font-weight: 500;
+	color: #363958;
+	margin-bottom: 70px;
+}
+
+.img-group {
+	width: 80%;
+	margin: 0 auto;
+}
+.img-group .img {
+	width: 30%;
+	float: left;
+}
+.img-group .img img {
+	width: 92%;
+}
+.img-group h2 {}
+.img-group p {}

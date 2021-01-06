@@ -1,0 +1,24 @@
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+
+
+
+.site-menu {
+
+}
+.site-menu ul {
+	margin: 0;
+	padding: 0;
+}
+.site-menu ul li {
+    list-style: none;
+    float: left;
+}
+.site-menu ul li a {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 500;
+	padding: 5px 17px;
+	text-transform: capitalize;
+}
